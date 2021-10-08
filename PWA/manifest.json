@@ -1,0 +1,45 @@
+{
+"short_name": "DCM",
+"name" : "DecimoPWA",
+"icons": [
+  {
+    "src": "/images/favicon/1-48x48.png",
+    "type": "image/png",
+    "sizes": "48x48"
+  },
+  {
+    "src": "/images/favicon/2-72x72.png",
+    "type": "image/png",
+    "sizes": "72x72"
+  },
+  {
+    "src": "/images/favicon/3-96x96.png",
+    "type": "image/png",
+    "sizes": "96x96"
+  },
+  {
+    "src": "/images/favicon/4-144x144.png",
+    "type": "image/png",
+    "sizes": "144x144"
+  },
+  {
+    "src": "/images/favicon/5-192x192.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  },
+  {
+    "src": "/images/favicon/6-512x512.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  },
+  {
+    "src": "/images/favicon/apple-icon-180x180.png",
+    "type": "image/png",
+    "sizes": "180x180"
+  }
+    ],
+    "start_url": "/index.html",
+    "background_color": "#000000",
+    "display": "standalone",
+    "theme_color": "#4dbaa8"
+}
