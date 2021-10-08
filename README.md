@@ -68,7 +68,7 @@ Por ejemplo: PORT = 3000
 
  * Iniciar el proyecto en el directorio principal con el comando:
 ```js
-	node app.js
+node app.js
 ```
 ## Contact
 
